@@ -1,7 +1,7 @@
 # Recetario de Cocina
 ## Python | Kivy
 
-Esta aplicación es un recetario interactivo desarrollado con Kivy, que permite a los usuarios registrarse, iniciar sesión y explorar recetas de diferentes categorías, como hamburguesas, ensaladas, batidos y cócteles de una manera aleatoria usando el método ramdon.
+Esta aplicación es un recetario interactivo desarrollado con Kivy, que permite a los usuarios registrarse, iniciar sesión y explorar recetas de diferentes categorías, como hamburguesas, ensaladas, batidos y cócteles de una manera aleatoria usando el método random.
 
 **Características**
 
